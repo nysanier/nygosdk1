@@ -1,9 +1,9 @@
-package nylib1
+package nygosdk1
 
 import (
 	"fmt"
 )
 
 func Hello() {
-	fmt.Println("nylib1")
+	fmt.Println("nygosdk1")
 }
