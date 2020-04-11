@@ -2,8 +2,9 @@
 // Click here and start typing.
 package main
 
-import "fmt"
+// import "github.com/nysanier/nygosdk1/lib"
+import "./lib"
 
 func main() {
-	fmt.Println("Hello, ny world")
+	lib.Fc()
 }
